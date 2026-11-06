@@ -1,0 +1,46 @@
+# DEVLOG 1 - 30/10/2026
+
+Well, it's the start of the project I suppose. Best to analyse the brief and udnerstand what I need to produce.
+First things first, I should setup my environment.
+Developer of the week. Excellent progress. (Maybe self motivation could be good)
+
+Okay. I've pulled up the project brief on my second monitor. I realise that I have to mute the stream I'm watching because i can't focus aaaaaaargh.
+
+sooooooooo looking at this 
+
+### STUDY TRACKER APPLICATION
+- View study tasks
+- Create study tasks 
+- Open details about the task 
+
+
+### WHAT IS A TASK?
+- well i guess the best way to define it would be through a dictionary item
+- wait no i disagreee with my last thought, should be class object
+- why? to make editing safer, easier manipulation of object, and so on, hard to explain my internal thought process
+
+# DEVLOG 2 - 1/11/2026
+
+Well, I opened VSCode....
+Still, no progress at all, having to juggle priorities
+Hear me out, if I could focus on any one project out of the 4 that I have, it would be this one
+I actually enjoy programming
+Anyhoo, moving on from my rambling
+
+
+# DEVLOG 3 - 2/11/2026
+
+i should at least throw together a plan or something
+taking some in notes within class now, i should try to put out a consistent testing schema
+is that even the right word? not that it matters since only i need to understand these logs
+something that i can look through to form my final document with
+
+# DEVLOG 4 - 05/11/2026
+
+I actually wrote some code today, finally properly setup the project with venv and flask
+
+# DEVLOG 5 - 06/11/2026
+
+Opened the project again. think i might right up a barebones test class.
+actually, i'm gonna set up VCS using git.
+And a directory for storing all my progress screenshots in.
