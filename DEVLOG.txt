@@ -44,3 +44,6 @@ I actually wrote some code today, finally properly setup the project with venv a
 Opened the project again. think i might right up a barebones test class.
 actually, i'm gonna set up VCS using git.
 And a directory for storing all my progress screenshots in.
+this is pretty cool
+might actualy have to use git more often
+i think ill commit here for tonight
