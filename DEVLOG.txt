@@ -48,7 +48,7 @@ this is pretty cool
 might actualy have to use git more often
 i think ill commit here for tonight
 
-# DEVLOG 09/11/2026
+# DEVLOG 6 - 09/11/2026
 
 Hello again, I'm in class now
 i'm looking at this project again
@@ -72,3 +72,13 @@ a TASK object will contain the following:
 - Description
 
 a unique identifier number? im not entirely sure, id rather keep it simple at first 
+
+# DEVLOG 7 - 11/11/2026
+
+I think I messed up.
+I messed up baaaaad
+I'm deleting everything and starting again from ground zero
+pushing blank slate commit
+- deleted venv
+- removed testing classes
+- removed basically everything 
