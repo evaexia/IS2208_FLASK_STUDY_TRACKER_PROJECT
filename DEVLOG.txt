@@ -82,3 +82,15 @@ pushing blank slate commit
 - deleted venv
 - removed testing classes
 - removed basically everything 
+
+# DEVLOG - 12/11/2026
+
+Well, I've started anew, restting everything up
+
+# DEVLOG - 13/11/2026
+
+Yesterdays devlog was cut a bit short because I simply forgot to finsih writing it T-T 
+
+I'm continuing work on the front end first, and will look into integrating sql
+
+no no i should focus on one thing and one thing and only first 
