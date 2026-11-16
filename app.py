@@ -4,12 +4,17 @@ app = Flask(__name__)
 
 @app.route('/home')
 def landing_page():
-    return "Hi hi hi hi hi"
+    # i'll make a dummy task object so then i can mess around with the task obj on the front end
+    tasks = [ ["Gigi Murin", "Justice", "Huh? But it was funny! Don't get mad at me!"],
+                ["Shiori Novella", "Advent", "Don't you think that's a wonderful story?"]
+            ]
+        
+    return render_template('home_page.html', tasks=tasks)
 
 @app.route('/create_task')
 def create_task_page():
-    return "to make a task, no not, that is my question to YOU"
+    return render_template('create_task.html')
 
-@app.route('/tasks/<taskID>')
+@app.route('/tasks/<int:taskID>')
 def task_view_page(taskID):
-    return "Well, there is no task here. (yet)"
+    return render_template('task_view.html')

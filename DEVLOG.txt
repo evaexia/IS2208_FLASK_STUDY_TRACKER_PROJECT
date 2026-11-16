@@ -94,3 +94,15 @@ Yesterdays devlog was cut a bit short because I simply forgot to finsih writing 
 I'm continuing work on the front end first, and will look into integrating sql
 
 no no i should focus on one thing and one thing and only first 
+
+# DEVLOG - 16/11/2026
+
+Coming back to the project after like 3 days
+it's almost 5am now
+i forgot how to pass variables into a jinja templates (i figured it out tho)
+and i'm making silly syntax errors (tf is an "enblock", ENGARDE FOUL CODE lmao)
+ack
+progress is being made tho so i'm happy with that
+UPLOADED MY FIRST SCREENSHOT OF WORK DONE!!!
+IT WOOOOOOORRRRKKKKSSSSS
+also its interesting how flask is able to locate the templates regardless of the directory you put them in 
