@@ -4,6 +4,21 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Document</title>
+        <style>
+            @font-face {
+                font-family: OpenSans, Arial;
+                src: url("fonts/OpenSans.ttf");
+            }
+
+            body {
+                font-family: OpenSans, Arial;
+            }
+            div {
+                background-color: rgb(187, 187, 187);
+                margin: 5px;
+                padding: 5px;
+            }
+        </style>
     </head>
     <body>
         <h1>
@@ -12,5 +27,7 @@
         <br>
         {% block content %} {% endblock %}
         
+        <h3>Made by Evaexia</h3>
+        <h3>For IS2208</h3>
     </body>
 </html>

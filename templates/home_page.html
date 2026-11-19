@@ -5,10 +5,20 @@ Study Tracker - Home
 {% endblock %}
 
 {% block content %}
-    {% for task in tasks %}
-        <h1> {{ task [0] }} </h1>
-        <h2> {{ task[1] }} </h2>
-        <h2> {{ task[2] }} </h2>
-        <br>
-    {% endfor %}
+    <a href="{{ url_for('create_task_page') }}"> Create New Task! </a>
+    <br>
+    {% if tasks == None or tasks == [] %}
+        <h2>No tasks here yet... click on 'Create New Task' to get started</h2>
+
+    {% else %}
+        {% for task in tasks %}
+            <div>
+                <h1> {{ task [0] }} </h1>
+                <h2> {{ task[1] }} </h2>
+                <h2> {{ task[2] }} </h2>
+            </div>
+            <hr>
+        {% endfor %}
+        
+    {% endif %}
 {% endblock %}

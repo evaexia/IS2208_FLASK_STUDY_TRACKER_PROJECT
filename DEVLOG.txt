@@ -83,11 +83,11 @@ pushing blank slate commit
 - removed testing classes
 - removed basically everything 
 
-# DEVLOG - 12/11/2026
+# DEVLOG 8 - 12/11/2026
 
 Well, I've started anew, restting everything up
 
-# DEVLOG - 13/11/2026
+# DEVLOG 9 - 13/11/2026
 
 Yesterdays devlog was cut a bit short because I simply forgot to finsih writing it T-T 
 
@@ -95,7 +95,7 @@ I'm continuing work on the front end first, and will look into integrating sql
 
 no no i should focus on one thing and one thing and only first 
 
-# DEVLOG - 16/11/2026
+# DEVLOG 10 - 16/11/2026
 
 Coming back to the project after like 3 days
 it's almost 5am now
@@ -106,3 +106,28 @@ progress is being made tho so i'm happy with that
 UPLOADED MY FIRST SCREENSHOT OF WORK DONE!!!
 IT WOOOOOOORRRRKKKKSSSSS
 also its interesting how flask is able to locate the templates regardless of the directory you put them in 
+
+update 12 hours later
+i think i might use pytest instead of unittest 
+pytest seems more intuitive to me 
+
+# DEVLOG 11 - 19/11/2026
+
+I have forgotten to log the preivous day of work, but I added some css to the pages
+AND 
+I've also created my custom 404 page (i WILL master css and there is nothing that can stop me)
+(the previou brackets are a LIE, CSS IS A NIGHTMARE AAAAAA)
+pushing these changes to the repo, so then i can work on the forms
+
+# DEVLOG 12 - 20/11/2026
+Hello and welcome back to another devlog
+I'll be honest, everyday reminds me of the importance of actually understanding code
+what sucks for me is that i REALLY suck at explaining, so don't expect to see me in a teaching role...
+but like, i have the understanding of it nonetheless
+
+anyhoo, designed the form page for now, gonna commit that and move on to giving it functionality
+
+also i learned about debugging mode and god this is AMAZING for me 
+i dont have to keep quitting and rerunning anymore 
+free from the shackles!
+productivity... increased i suppose!
