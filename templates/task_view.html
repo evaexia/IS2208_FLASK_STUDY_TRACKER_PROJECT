@@ -2,8 +2,12 @@
 
 {% block title %}
 {# gonna sub in the task title for the tab title#}
+    {{ task[0] }}
 {% endblock %}
 
 {% block content %}
-    
+    <a href="{{ url_for('home_page')}}"> Return Home </a>
+    <h1> {{ task [0] }} </h1>
+    <h2> {{ task[1] }} </h2>
+    <h2> {{ task[2] }} </h3>   
 {% endblock %}

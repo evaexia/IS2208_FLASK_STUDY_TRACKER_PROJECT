@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>lmao</title>
+    <style>
+        @font-face {
+                font-family: OpenSans, Arial;
+                src: url("fonts/OpenSans.ttf");
+        }
+
+        body {
+            font-family: OpenSans, Arial;
+        }
+
+        div {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1><b>404</b></h1>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyQSkxLh_cwPdgLUl_DK3lwcvmoCZYeD3G7jEPUwregm3uvFPchRw3nHU&s=10">
+        <h2>Well, you've ended up here, but it's probably not what you're looking for...</h2>
+        <h3>Here's what went wrong: </h3>
+        <h3> {{ err }}</h3>
+        <a href="{{ url_for('home_page') }}">Go home, away from this state of limbo</a>
+    </div>
+</body>
+</html>
