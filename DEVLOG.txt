@@ -118,3 +118,16 @@ AND
 I've also created my custom 404 page (i WILL master css and there is nothing that can stop me)
 (the previou brackets are a LIE, CSS IS A NIGHTMARE AAAAAA)
 pushing these changes to the repo, so then i can work on the forms
+
+# DEVLOG 12 - 20/11/2026
+Hello and welcome back to another devlog
+I'll be honest, everyday reminds me of the importance of actually understanding code
+what sucks for me is that i REALLY suck at explaining, so don't expect to see me in a teaching role...
+but like, i have the understanding of it nonetheless
+
+anyhoo, designed the form page for now, gonna commit that and move on to giving it functionality
+
+also i learned about debugging mode and god this is AMAZING for me 
+i dont have to keep quitting and rerunning anymore 
+free from the shackles!
+productivity... increased i suppose!

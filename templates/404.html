@@ -20,6 +20,11 @@
             justify-content: center;
             align-items: center;
         }
+
+        #error_message {
+            color:gray;
+        }
+
     </style>
 </head>
 <body>
@@ -28,7 +33,7 @@
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyQSkxLh_cwPdgLUl_DK3lwcvmoCZYeD3G7jEPUwregm3uvFPchRw3nHU&s=10">
         <h2>Well, you've ended up here, but it's probably not what you're looking for...</h2>
         <h3>Here's what went wrong: </h3>
-        <h3> {{ err }}</h3>
+        <h3 id="error_message"> {{ err }}</h3>
         <a href="{{ url_for('home_page') }}">Go home, away from this state of limbo</a>
     </div>
 </body>

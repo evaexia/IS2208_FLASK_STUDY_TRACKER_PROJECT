@@ -6,7 +6,8 @@ Study Tracker - Home
 
 {% block content %}
     <a href="{{ url_for('create_task_page') }}"> Create New Task! </a>
-    {% if tasks == None %}
+    <br>
+    {% if tasks == None or tasks == [] %}
         <h2>No tasks here yet... click on 'Create New Task' to get started</h2>
 
     {% else %}
